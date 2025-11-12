@@ -127,7 +127,7 @@ Copyright (c) 2025, DFRobot
 
 
 ```package
-huskylensV2=github:cdjq/pxt-DFRobot_HuskyLensV2
+huskylensV2=github:DFRobot-Embedded-Software/pxt-DFRobot_HuskyLensV2
 ```
 
 ## Links
